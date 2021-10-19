@@ -39,3 +39,5 @@ If skip to spawn `echo`, it completed as expectedly.
 
 Where does this behavior come from?
 What is the cause?
+
+This did not happen on Linux (Xubuntu 21.04).
